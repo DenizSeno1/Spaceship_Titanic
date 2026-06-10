@@ -1,7 +1,7 @@
 # Spaceship Titanic Kaggle Competition
 
 ![Kaggle Score](https://img.shields.io/badge/Kaggle_Score-0.80500-blue)
-![Top Percentage](https://img.shields.io/badge/Top-~8%25-brightgreen)
+![Top Percentage](https://img.shields.io/badge/Top-~39%25-brightgreen)
 
 Bu proje, Kaggle'daki **Spaceship Titanic** yarışması için hazırlanmış bir Makine Öğrenmesi çözümüdür. Amaç, yolcuların çarpışma sırasında "başka bir boyuta ışınlanıp ışınlanmadığını" (Transported) tahmin etmektir.
 
