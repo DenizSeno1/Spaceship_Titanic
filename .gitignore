@@ -17,3 +17,9 @@ env/
 # İşletim sistemi kalıntıları
 .DS_Store
 Thumbs.db
+
+# CatBoost Logs
+catboost_info/
+
+# Temporary Scripts
+*.py
