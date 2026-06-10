@@ -1,0 +1,19 @@
+# Kaggle / Veri setleri
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment (varsa)
+venv/
+env/
+.env
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
